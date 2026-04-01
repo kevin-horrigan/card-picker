@@ -1,0 +1,37 @@
+card_name,category,multiplier,network,default_multiplier
+Chase Sapphire Reserve,Travel,5,Visa,1
+Chase Sapphire Reserve,Dining,3,Visa,1
+Chase Sapphire Reserve,Flights,5,Visa,1
+Chase Sapphire Reserve,Hotels,5,Visa,1
+Amazon Prime Visa,Amazon,5,Visa,1
+Amazon Prime Visa,Whole Foods,5,Visa,1
+Amazon Prime Visa,Restaurants,2,Visa,1
+Amazon Prime Visa,Gas,2,Visa,1
+Amazon Prime Visa,Transit,2,Visa,1
+United Club Card,United Airlines,2,Visa,1
+United Club Card,Dining,2,Visa,1
+United Club Card,Hotels,2,Visa,1
+Southwest Priority,Southwest Airlines,3,Visa,1
+Southwest Priority,Rapid Rewards Hotels,2,Visa,1
+Southwest Priority,Rapid Rewards Car Rental,2,Visa,1
+Southwest Priority,Transit,2,Visa,1
+Southwest Priority,Internet/Cable/Phone,2,Visa,1
+Amex Platinum,Flights,5,Amex,1
+Amex Platinum,Hotels (Amex Travel),5,Amex,1
+Hilton Honors Aspire,Hilton Hotels,14,Amex,3
+Hilton Honors Aspire,Flights,7,Amex,3
+Hilton Honors Aspire,Car Rental,7,Amex,3
+Hilton Honors Aspire,Restaurants,7,Amex,3
+Blue Cash Preferred,Groceries (up to $6k/yr),6,Amex,1
+Blue Cash Preferred,Streaming,6,Amex,1
+Blue Cash Preferred,Transit,3,Amex,1
+Blue Cash Preferred,Gas,3,Amex,1
+PayPal Cashback Mastercard,Everything,2,Mastercard,2
+Citi Strata Premier,Hotels (Citi Travel),10,Mastercard,1
+Citi Strata Premier,Car Rental (Citi Travel),10,Mastercard,1
+Citi Strata Premier,Flights,3,Mastercard,1
+Citi Strata Premier,Hotels,3,Mastercard,1
+Citi Strata Premier,Dining,3,Mastercard,1
+Citi Strata Premier,Groceries,3,Mastercard,1
+Citi Strata Premier,Gas,3,Mastercard,1
+Citi Strata Premier,EV Charging,3,Mastercard,1
